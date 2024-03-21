@@ -1,0 +1,10 @@
+print("ficha " )
+nombre = input("escribe tu nombre")
+nombre += input("escriba su apellido")
+fechaDenacimiento = input("escriba su fecha de nacimiento")
+edad= input("escriba su edad ")
+nacimiento = input("escriba su lugar de nacimiento")
+print( "hola" + nombre , "su fecha de nacimiento es " + fechaDenacimiento , "su edad es " + edad 
+      , "lugar de nacimiento"  + nacimiento)
+# str ( sirve para convertir un numero numero a un valor tipo str es un texto sirve para concatenar )
+# ejemplo resultado = str(resultado numerico)

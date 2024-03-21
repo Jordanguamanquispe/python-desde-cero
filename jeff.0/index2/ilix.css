@@ -1,0 +1,20 @@
+h1{ 
+    color: rgb(255, 255, 255);
+}
+
+body{
+   background-color: black;
+    color: rgb(0, 0, 0);
+}
+a{
+    color: aliceblue;
+}
+h4{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 20px; /* Ajusta la distancia desde la parte superior si es necesario */
+    margin-right: 20px; /* Ajusta la distancia desde el borde derecho si es necesario */
+    color: rgb(255, 255, 255);
+
+}

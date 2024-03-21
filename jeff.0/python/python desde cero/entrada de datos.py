@@ -1,0 +1,5 @@
+nombre = input("escribe tu nombre")
+print("hola", nombre + " realizaremos una suma ")
+num= int(input("digite el numero"))
+num += int(input("digite el otro numero"))
+print(nombre + " el resultado de la suma es  ",  num)
